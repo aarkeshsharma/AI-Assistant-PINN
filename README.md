@@ -31,7 +31,7 @@ This repository contains the following nodes of PINN:
 PINN.py
 
 # Installation
-Clone the repository
+Download the repositories as https://github.com/aarkeshsharma/AI-Assistant-PINN.git
 
 Download Microsoft VS Code for Smooth Functioning
 
