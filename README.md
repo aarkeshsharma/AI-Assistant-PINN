@@ -3,7 +3,22 @@
 # Introduction
 PINN is an simple open-source AI assistant which can be customised 
 
-He does stuff when you ask him for. 
+He does stuff when you ask him for.
+
+# Commands
+He Can take screenshots
+
+He can ShutDown/Restart/Sleep the system
+
+He can send E-Mails to other persons
+
+He can open certain websites from the web
+
+He can save the data for you
+
+He can tell you automated jokes ( Which is Somewhat funny Lol Xd)
+
+He Can read certain documents for you
 
 # Why?
 If you are a developer (or not), you may want to build many things that could help in your daily life. Instead of building a dedicated project for each of those ideas, PINN can help you with his packages/modules (skills) structure.
