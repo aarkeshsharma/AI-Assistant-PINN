@@ -31,8 +31,7 @@ This repository contains the following nodes of PINN:
 PINN.py
 
 # Installation
-Clone the repository (stable branch)
-
+Clone the repository
 Download Microsoft VS Code for Smooth Functioning
 
 # Author
