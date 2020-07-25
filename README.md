@@ -16,4 +16,5 @@ PINN.py
 
 # Installation
 Clone the repository (stable branch)
+
 Download Microsoft VS Code for Smooth Functioning
