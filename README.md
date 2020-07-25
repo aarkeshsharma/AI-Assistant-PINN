@@ -12,9 +12,18 @@ PINN uses AI concepts, which is pretty cool & simple.
 
 # What is this repository for?
 This repository contains the following nodes of PINN:
+
 PINN.py
 
 # Installation
 Clone the repository (stable branch)
 
 Download Microsoft VS Code for Smooth Functioning
+
+# Author
+
+aarkeshsharma
+
+# License
+
+Copyright (c) 2020-present, Aarkesh Sharma aarkeshsharma@gmail.com
