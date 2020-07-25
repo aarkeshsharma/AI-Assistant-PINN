@@ -15,6 +15,5 @@ This repository contains the following nodes of PINN:
 PINN.py
 
 # Installation
-# Clone the repository (stable branch)
-git clone -b master https://github.com/leon-ai/leon.git leon
+Clone the repository (stable branch)
 Download Microsoft VS Code for Smooth Functioning
