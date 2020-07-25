@@ -32,6 +32,7 @@ PINN.py
 
 # Installation
 Clone the repository
+
 Download Microsoft VS Code for Smooth Functioning
 
 # Author
